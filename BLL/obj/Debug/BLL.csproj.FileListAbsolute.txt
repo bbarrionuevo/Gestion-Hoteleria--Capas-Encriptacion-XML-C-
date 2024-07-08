@@ -1,0 +1,96 @@
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\BLL\bin\Debug\BLL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\BLL\bin\Debug\BLL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\BLL\bin\Debug\Abstraccion.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\BLL\bin\Debug\BE.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\BLL\bin\Debug\DAL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\BLL\bin\Debug\MPP.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\BLL\bin\Debug\Abstraccion.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\BLL\bin\Debug\BE.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\BLL\bin\Debug\DAL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\BLL\bin\Debug\DAL.dll.config
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\BLL\bin\Debug\MPP.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\BLL\obj\Debug\BLL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\BLL\obj\Debug\BLL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\BLL\obj\Debug\BLL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\BLL\obj\Debug\BLL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\BLL\bin\Debug\BLL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\BLL\bin\Debug\BLL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\BLL\bin\Debug\Abstraccion.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\BLL\bin\Debug\BE.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\BLL\bin\Debug\DAL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\BLL\bin\Debug\MPP.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\BLL\bin\Debug\Abstraccion.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\BLL\bin\Debug\BE.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\BLL\bin\Debug\DAL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\BLL\bin\Debug\DAL.dll.config
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\BLL\bin\Debug\MPP.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\BLL\bin\Debug\BLL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\BLL\bin\Debug\BLL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\BLL\bin\Debug\Abstraccion.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\BLL\bin\Debug\BE.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\BLL\bin\Debug\DAL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\BLL\bin\Debug\MPP.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\BLL\bin\Debug\Abstraccion.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\BLL\bin\Debug\BE.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\BLL\bin\Debug\DAL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\BLL\bin\Debug\DAL.dll.config
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\BLL\bin\Debug\MPP.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\BLL\obj\Debug\BLL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\BLL\obj\Debug\BLL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\BLL\obj\Debug\BLL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\BLL\obj\Debug\BLL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\BLL\bin\Debug\BLL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\BLL\bin\Debug\BLL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\BLL\bin\Debug\Abstraccion.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\BLL\bin\Debug\BE.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\BLL\bin\Debug\DAL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\BLL\bin\Debug\MPP.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\BLL\bin\Debug\Abstraccion.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\BLL\bin\Debug\BE.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\BLL\bin\Debug\DAL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\BLL\bin\Debug\DAL.dll.config
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\BLL\bin\Debug\MPP.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\BLL\obj\Debug\BLL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\BLL\obj\Debug\BLL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\BLL\bin\Debug\BLL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\BLL\bin\Debug\BLL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\BLL\bin\Debug\Abstraccion.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\BLL\bin\Debug\BE.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\BLL\bin\Debug\DAL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\BLL\bin\Debug\MPP.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\BLL\bin\Debug\Abstraccion.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\BLL\bin\Debug\BE.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\BLL\bin\Debug\DAL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\BLL\bin\Debug\DAL.dll.config
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\BLL\bin\Debug\MPP.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\BLL\bin\Debug\BLL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\BLL\bin\Debug\BLL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\BLL\bin\Debug\Abstraccion.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\BLL\bin\Debug\BE.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\BLL\bin\Debug\DAL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\BLL\bin\Debug\Abstraccion.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\BLL\bin\Debug\BE.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\BLL\bin\Debug\DAL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\BLL\bin\Debug\DAL.dll.config
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\BLL\obj\Debug\BLL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\BLL\obj\Debug\BLL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\BLL\bin\Debug\Servicios.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\BLL\bin\Debug\Servicios.pdb

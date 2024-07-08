@@ -1,0 +1,12 @@
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\Abstraccion\bin\Debug\Abstraccion.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\Abstraccion\bin\Debug\Abstraccion.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\Abstraccion\obj\Debug\Abstraccion.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\Abstraccion\obj\Debug\Abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\Abstraccion\obj\Debug\Abstraccion.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\Abstraccion\obj\Debug\Abstraccion.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\Abstraccion\bin\Debug\Abstraccion.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\Abstraccion\bin\Debug\Abstraccion.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\Abstraccion\obj\Debug\Abstraccion.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\Abstraccion\obj\Debug\Abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\Abstraccion\obj\Debug\Abstraccion.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\Abstraccion\obj\Debug\Abstraccion.pdb
