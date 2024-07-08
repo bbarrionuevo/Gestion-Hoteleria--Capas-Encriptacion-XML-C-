@@ -1,0 +1,189 @@
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\bin\Debug\SistemaDeReservas_UI.exe.config
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\bin\Debug\SistemaDeReservas_UI.exe
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\bin\Debug\SistemaDeReservas_UI.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas.Properties.Resources.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.GenerateResource.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.exe
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmLogin.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas.Gestion.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas.Menu.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\bin\Debug\BE.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\bin\Debug\BLL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\bin\Debug\Abstraccion.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\bin\Debug\MPP.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\bin\Debug\DAL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\bin\Debug\BE.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\bin\Debug\BLL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\bin\Debug\Abstraccion.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\bin\Debug\MPP.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\bin\Debug\DAL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\bin\Debug\DAL.dll.config
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.CopyComplete
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\bin\Debug\SistemaDeReservas_UI.exe.config
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\bin\Debug\SistemaDeReservas_UI.exe
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\bin\Debug\SistemaDeReservas_UI.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\bin\Debug\BE.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\bin\Debug\BLL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\bin\Debug\Abstraccion.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\bin\Debug\MPP.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\bin\Debug\DAL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\bin\Debug\BE.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\bin\Debug\BLL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\bin\Debug\Abstraccion.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\bin\Debug\MPP.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\bin\Debug\DAL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\bin\Debug\DAL.dll.config
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\obj\Debug\SistemaDeReservas.Gestion.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmLogin.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\obj\Debug\SistemaDeReservas.Menu.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\obj\Debug\SistemaDeReservas.Properties.Resources.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.GenerateResource.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.CopyComplete
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.exe
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\borrador\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\SistemaDeReservas_UI.exe.config
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\SistemaDeReservas_UI.exe
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\SistemaDeReservas_UI.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\BE.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\BLL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\Abstraccion.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\MPP.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\DAL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\BE.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\BLL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\Abstraccion.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\MPP.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\DAL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\DAL.dll.config
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.Gestion.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmLogin.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.Menu.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.Properties.Resources.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.GenerateResource.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.CopyComplete
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.exe
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\SistemaDeReservas_UI.exe.config
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\SistemaDeReservas_UI.exe
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\SistemaDeReservas_UI.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\BE.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\BLL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\Abstraccion.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\MPP.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\DAL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\BE.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\BLL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\Abstraccion.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\MPP.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\DAL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\DAL.dll.config
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.Gestion.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmLogin.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.Menu.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.Properties.Resources.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.GenerateResource.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.CopyComplete
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.exe
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP Integrador N1\TPN1_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.Frm_ABM_Clientes.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.Gestion.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmLogin.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.Menu.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.Properties.Resources.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.GenerateResource.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.exe
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\SistemaDeReservas_UI.exe.config
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\SistemaDeReservas_UI.exe
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\SistemaDeReservas_UI.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\BE.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\BLL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\Abstraccion.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\MPP.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\DAL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\BE.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\BLL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\Abstraccion.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\MPP.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\DAL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\DAL.dll.config
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.CopyComplete
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.Frm_ABM_Habitacion.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\LUG\TP integrador N2\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmInformes.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmGestionPermisos.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmInformes.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmRegistrarCliente.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmUsuarios.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.Frm_ABM_Habitacion.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmGestionarReserva.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmLogin.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.Menu.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas.Properties.Resources.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.GenerateResource.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.exe
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\SistemaDeReservas_UI.exe.config
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\SistemaDeReservas_UI.exe
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\SistemaDeReservas_UI.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\BE.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\BLL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\Abstraccion.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\MPP.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\DAL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\BE.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\BLL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\Abstraccion.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\MPP.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\DAL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\bin\Debug\DAL.dll.config
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\TPN2_LUG_SistemaDeReservas_V2\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.CopyComplete
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\bin\Debug\SistemaDeReservas_UI.exe.config
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\bin\Debug\SistemaDeReservas_UI.exe
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\bin\Debug\SistemaDeReservas_UI.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\bin\Debug\BE.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\bin\Debug\BLL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\bin\Debug\Abstraccion.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\bin\Debug\DAL.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\bin\Debug\BE.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\bin\Debug\BLL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\bin\Debug\Abstraccion.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\bin\Debug\DAL.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\bin\Debug\DAL.dll.config
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.AssemblyReference.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmGestionPermisos.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmInformes.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmPatenteFamilia.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmRegistrarCliente.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmUsuarios.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas.Frm_ABM_Habitacion.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmGestionarReserva.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmLogin.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas.Menu.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas.Properties.Resources.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.GenerateResource.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.csproj.CopyComplete
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.exe
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas_UI.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\bin\Debug\Servicios.dll
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\bin\Debug\Servicios.pdb
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmComprobarHabitacion.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmBuscarCliente.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmModificarReserva.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmCheckInCliente.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmCheckOutCliente.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmRegistrarPago.resources
+C:\Users\Brian\OneDrive\Escritorio\UAI\Trabajo Final\SistemaDeReservas\SistemaDeReservas\SistemaDeReservas\obj\Debug\SistemaDeReservas.FrmBackUp.resources

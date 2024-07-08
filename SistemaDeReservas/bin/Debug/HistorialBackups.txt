@@ -1,0 +1,9 @@
+Backup realizado el 18/6/2024 16:31:23 en Backup_20240618_163123.xml
+Backup restaurado el 18/6/2024 16:32:02 desde Backup_20240618_163123.xml
+Backup realizado el 28/6/2024 17:42:18 en Backup_20240628_174218.xml
+Backup realizado el 28/6/2024 19:54:00 en Backup_20240628_195400.xml
+Backup restaurado el 28/6/2024 19:55:00 desde Backup_20240628_195400.xml
+Backup restaurado el 28/6/2024 19:55:55 desde Backup_20240628_195400.xml
+Backup realizado el 30/6/2024 20:19:59 en Backup_20240630_201959.xml
+Backup realizado el 5/7/2024 21:06:12 en Backup_20240705_210612.xml
+Backup restaurado el 5/7/2024 21:06:23 desde Backup_20240705_210612.xml
